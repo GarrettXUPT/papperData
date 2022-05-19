@@ -6,6 +6,8 @@ This is the result of Rotation Symmetric Boolean Function, The relationship betw
 
 The location of 1 in RSTT is represented by location information.
 
+The digit after RSTT represent the transparent order results of the RSBFs.
+
 if you need boolean function source code, you can contact me or browse my other github folder.
 
 If you have any questions about the result, Please contact me, my email is great_shiyu@163.com.
